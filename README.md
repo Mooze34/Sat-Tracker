@@ -91,7 +91,7 @@ Then install **esp32 by Espressif Systems** from the Boards Manager.
 
 ### Note on code
 
-I will not be uploading the code at this time as it needs cleanup — it has hardcoded location data. Will upload here when that gets fixed :)
+I will not be uploading the code at this time as it needs cleanup, it has hardcoded location data. Will upload here when that gets fixed :)
 
 ---
 
