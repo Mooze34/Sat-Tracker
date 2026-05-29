@@ -107,8 +107,8 @@ I will not be uploading the code at this time as it needs cleanup, it has hardco
 ## Author
 
 **Mustafa Alawad**  
-CS Senior @ University of Texas at Dallas  
-Former NASA JPL Contributor
+CS Senior @ The University of Texas at Dallas  
+Former NASA JPL Contributor,
 Prev Research Assistant @ UN Lab, Northeastern University   
 Founding Team @ [Teralink Technologies](https://teralink.space)  
 Website: [mustafa-alawad.com](https://mustafa-alawad.com/)
