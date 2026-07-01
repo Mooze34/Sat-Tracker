@@ -100,17 +100,20 @@ I will not be uploading the code at this time as it needs cleanup, it has hardco
 - [ ] **NEO-6M GPS** — automatic observer location instead of hardcoded coordinates (in progress)
 - [ ] **Multi-satellite support** — build a GUI to switch between tracking different satellites
 - [ ] **Code cleanup** — a lot of personal location data is hardcoded, need to clean up before posting
-- [ ] **More images and videos** — I have a bad habit of not documenting my projects, will upload when I get back to Texas
+- [ ] **More images and videos** — I have a bad habit of not documenting my projects, will upload when I get back to Texas (Currently in Mass for work) 
 
 ---
 
-## Author
+**Mustafa Alawad**
 
-**Mustafa Alawad**  
-CS Senior @ The University of Texas at Dallas  
-Former NASA JPL Contributor,
-Prev Research Assistant @ UN Lab, Northeastern University   
-Founding Team @ [Teralink Technologies](https://teralink.space)  
+CS Senior @ The University of Texas at Dallas
+
+Former NASA JPL Contributor
+
+Prev Research Assistant @ UN Lab, Northeastern University
+
+Founding Team Member @ [Teralink Technologies](https://teralink.space)
+
 Website: [mustafa-alawad.com](https://mustafa-alawad.com/)
 
 ---
