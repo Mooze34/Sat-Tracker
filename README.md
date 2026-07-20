@@ -1,6 +1,6 @@
 # ESP32 Satellite Tracker
 
-Hello everyone! I decided to make one of the projects I made this semester open source. I used an ESP32 module and some servo motors to make a satellite tracker that tracks the ISS when it is above 5° in elevation. I did this with an ESP32 since I have never used a pure microcontoller before, only raspberry pis. (I will be adding more sat traking and uploading the code soon!)
+Hello everyone! I decided to make one of the projects I made this semester open source. I used an ESP32 module and some servo motors to make a satellite tracker that tracks the ISS when it is above 5° in elevation. I did this with an ESP32 since I have never used a pure microcontoller before, only raspberry pis running a traditional OS (Debian Pi OS). (I will be adding more sat traking and uploading the code soon, when I get back home from Mass.)
 
 ![Status](https://img.shields.io/badge/status-working-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-ESP32-blue)
@@ -108,7 +108,7 @@ I will not be uploading the code at this time as it needs cleanup, it has hardco
 
 CS Senior @ The University of Texas at Dallas
 
-Former NASA JPL Contributor
+Former NASA JPL Contributor & Publisher 
 
 Prev Research Assistant @ UN Lab, Northeastern University
 
