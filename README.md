@@ -108,9 +108,9 @@ I will not be uploading the code at this time as it needs cleanup, it has hardco
 
 CS Senior @ The University of Texas at Dallas
 
-Former NASA JPL Contributor & Publisher 
+[IEEE AP-S/URSI 2025 Co-Author](https://ieeexplore.ieee.org/document/11266806)
 
-Prev Research Assistant @ UN Lab, Northeastern University
+Prev Research Assistant @ [UN Lab, Northeastern University](https://unlab.tech/team_members/mustafa-alawad/)
 
 Founding Team Member @ [Teralink Technologies](https://teralink.space)
 
